@@ -17,7 +17,7 @@ public class SudokuSolver {
         if (solve(board)) {
             display(board);
         } else {
-            System.out.println("Cannot solve");
+            System.out.println("Cannot Solve");
         }
 
     }
